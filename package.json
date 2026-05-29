@@ -1,0 +1,13 @@
+{
+  "name": "polimorfismointerfaces",
+  "version": "1.0.0",
+  "description": "Proyecto POO: polimorfismo con interfaces en TypeScript",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
